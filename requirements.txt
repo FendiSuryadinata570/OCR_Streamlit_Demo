@@ -1,0 +1,4 @@
+streamlit==0.71.0
+pandas==0.25.1
+easyocr==1.2.1
+pillow==6.2.1
